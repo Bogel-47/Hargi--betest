@@ -10,7 +10,7 @@ git clone https://github.com/Bogel-47/Hargi--betest.git
 
 Masuk ke direktori aplikasi.
 
-cd repo-aplikasi-anda
+cd Hargi--betest
 Instal dependensi dengan menjalankan perintah:
 
 npm install
