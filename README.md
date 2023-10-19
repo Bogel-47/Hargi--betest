@@ -6,7 +6,8 @@ Ini adalah contoh aplikasi Node.js berbasis Express.js yang menyediakan beberapa
 # Instalasi
 Pastikan Anda telah menginstal Node.js dan npm di komputer Anda. Clone repositori ini atau unduh sebagai ZIP.
 
-git clone https://github.com/Bogel-47/Hargi--betest
+git clone https://github.com/Bogel-47/Hargi--betest.git
+
 Masuk ke direktori aplikasi.
 
 cd repo-aplikasi-anda
